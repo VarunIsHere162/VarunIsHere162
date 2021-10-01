@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Varun Chaitenya Sharma 
+- 👀 I’m interested in python and js
+- 🌱 I’m currently learning js
+- 📫 How to reach me mail me varun.code.123@gmail.com
+- I want to be a software engineer or ethical hacker
