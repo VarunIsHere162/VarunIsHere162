@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning js
 - 📫 How to reach me mail me varun.code.123@gmail.com
 - I want to be a software engineer or ethical hacker
+- NEED HELP FOR MAKING DISCORD BOT PLS HELP
